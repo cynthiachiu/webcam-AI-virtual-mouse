@@ -73,10 +73,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/cynthiachiu/webcam-ai-virtual-mouse
+$ git clone https://github.com/cynthiachiu/webcam-AI-virtual-mouse
 
 # Access
-$ cd webcam-ai-virtual-mouse
+$ cd webcam-AI-virtual-mouse
 
 # Initiate the python virtual environment
 $ python3 -m venv venv
